@@ -1,5 +1,5 @@
 /*local*/
-const baseUrl = "https://backmarket-backend.onrender.com";
+const baseUrl = "https://market.aiglesend.com/";
 
 /*production*/
 // const baseUrl = "https://backend-back-market-9b83fb45c29d.herokuapp.com";
